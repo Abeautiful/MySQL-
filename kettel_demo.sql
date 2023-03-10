@@ -1,0 +1,1 @@
+CREATE DATABASE kettle_demo CHARSET = 'utf8';
